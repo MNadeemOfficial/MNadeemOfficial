@@ -1,6 +1,6 @@
 # Hi 👋 I'm Muhammad Nadeem
 
-🚀 Machine Learning Engineer in Progress  
+🚀  Aspiring Machine Learning Engineer  
 💡 Turning Data into Intelligent Solutions  
 
 ---
@@ -8,6 +8,7 @@
 ## 🧠 About Me
 I am passionate about Machine Learning, Artificial Intelligence, and Data Science.  
 Currently building real-world ML projects step by step.
+📍 Focused on building practical, real-world Machine Learning solutions.
 
 ---
 
