@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Nadeem
 
-<!--
-**MNadeemOfficial/MNadeemOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Engineer in Progress  
+💡 Turning Data into Intelligent Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am passionate about Machine Learning, Artificial Intelligence, and Data Science.  
+Currently building real-world ML projects step by step.
+
+---
+
+## 🛠️ Skills (Learning & Building)
+- Python
+- Pandas & NumPy
+- Data Visualization
+- Scikit-learn
+- Machine Learning Models
+
+---
+
+## 📌 Current Focus
+- Building ML Projects
+- Strengthening Python Fundamentals
+- Data Analysis Practice
+
+---
+
+## 📂 Upcoming Projects
+- House Price Prediction
+- Customer Churn Prediction
+- Sentiment Analysis
+- Data Visualization Dashboard
+
+---
+
+⭐ Consistency + Projects = Success
